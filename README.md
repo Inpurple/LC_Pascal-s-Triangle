@@ -1,13 +1,16 @@
 # LC_Pascal-s-Triangle
-Given a non-negative integer numRows, generate the first numRows of Pascal's triangle.
+一
+
+给定一个非负整数 numRows，生成杨辉三角的前 numRows 行。
 
 
-In Pascal's triangle, each number is the sum of the two numbers directly above it.
 
-Example:
+在杨辉三角中，每个数是它左上方和右上方的数的和。
 
-Input: 5
-Output:
+示例:
+
+输入: 5
+输出:
 [
      [1],
     [1,1],
@@ -16,10 +19,11 @@ Output:
  [1,4,6,4,1]
 ]
 
+
+
+
+二
 给定一个非负索引 k，其中 k ≤ 33，返回杨辉三角的第 k 行。
-
-
-
 在杨辉三角中，每个数是它左上方和右上方的数的和。
 
 示例:
